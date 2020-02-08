@@ -11,7 +11,7 @@ function setCart(c) {
 
 function addToCart(item) {
   fruitInCart = ["apples", "bananas"]
- item = fruitInCart
+ fruitInCart = item
  return fruitInCart;
 }
 
