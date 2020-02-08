@@ -10,8 +10,9 @@ function setCart(c) {
 }
 
 function addToCart(item) {
- getCart.length = item;
- return getCart.length;
+  fruitInCart = ["apples", "bananas"]
+ item = fruitInCart
+ return fruitInCart;
 }
 
 function viewCart() {
