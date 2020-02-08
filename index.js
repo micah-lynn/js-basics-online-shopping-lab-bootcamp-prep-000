@@ -10,7 +10,7 @@ function setCart(c) {
 }
 
 function addToCart(item) {
-  fruitInCart = ["apples", "bananas"]
+  fruitInCart[] = ["apples", "bananas"]
  fruitInCart = item;
  return fruitInCart;
 }
